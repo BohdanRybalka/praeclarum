@@ -1,0 +1,13 @@
+{
+  "name": "praeclarum",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/BohdanRybalka/praeclarum.git",
+  "author": "Bohdan Rybalka <bohdanrybalka@users.noreply.github.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@playwright/test": "^1.38.0",
+    "@types/node": "^20.6.3"
+  },
+  "scripts": {}
+}
