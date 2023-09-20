@@ -9,5 +9,8 @@
     "@playwright/test": "^1.38.0",
     "@types/node": "^20.6.3"
   },
-  "scripts": {}
+  "scripts": {},
+  "dependencies": {
+    "dotenv": "^16.3.1"
+  }
 }
